@@ -6,7 +6,7 @@ abstract class Sawa {
 }
 ```
 
-## ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
+## ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
 ```typescript
 class KaminariSawa extends Sawa {
   actionBeforeThink = true;
@@ -14,7 +14,7 @@ class KaminariSawa extends Sawa {
 ```
 🙅‍♂️ Hmm, no... I’m such an overthinker. Guess I’m not KaminariSawa.
 
-## 💐💐💐💐💐💐💐💐💐💐💐💐💐💐💐
+## 💐💐💐💐💐💐💐💐💐💐💐💐
 ```typescript
 class HanaSawa extends Sawa {
   isElegant = true;
@@ -22,7 +22,7 @@ class HanaSawa extends Sawa {
 ```
 🙅‍♂️ No. I climb pathless mountains getting scratched by branches. Not HanaSawa.
 
-## 🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
+## 🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
 ```typescript
 class KooriSawa extends Sawa {
   empathy = 0;
@@ -30,7 +30,7 @@ class KooriSawa extends Sawa {
 ```
 🙅‍♂️ Well, I’m not really that cold-hearted... I hope...
 
-## 🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸
+## 🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸
 ```typescript
 class NumaSawa extends Sawa {
   isStagnant = true;
