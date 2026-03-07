@@ -36,7 +36,7 @@ class NumaSawa extends Sawa {
   isStagnant = true;
 }
 ```
-🙅‍♂️ Literally, after every shower, I wipe it down with a towel.✨ Not NumaSawa.
+🙅‍♂️ No. I literally wipe down the bathroom after every shower.✨ Not NumaSawa.
 
 <br>
 
