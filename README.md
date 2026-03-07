@@ -74,4 +74,6 @@ Hmm... Why does pollen get deployed to production every spring even though it's 
 
 # My Portfolio
 ### I'd be happy if you checked it out!
+### 👇👇👇
 https://www.shogomorisawa.me/
+### 👆👆👆
