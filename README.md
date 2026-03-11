@@ -1,5 +1,7 @@
 # Hi, I'm... wait, which "-sawa" was I again? 🤔👋
 
+[![Portfolio](https://img.shields.io/badge/👉_Click_here_to_visit_my_Portfolio-007EC6?style=for-the-badge)](https://www.shogomorisawa.me/)
+
 ```typescript
 abstract class Sawa {
   readonly origin = "Kitsuki City ♨️🍊🍵";
