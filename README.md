@@ -1,6 +1,8 @@
-# Hi, I'm... wait, which "-sawa" was I again? 🤔👋
-
+こちらにポートフォリオサイトを作りましたのでぜひ見てください✨
 [![Portfolio](https://img.shields.io/badge/👉_Click_here_to_visit_my_Portfolio-007EC6?style=for-the-badge)](https://www.shogomorisawa.me/)
+<br>☝☝
+
+# Hi, I'm... wait, which "-sawa" was I again? 🤔👋
 
 ```typescript
 abstract class Sawa {
@@ -71,11 +73,3 @@ cockroaches/
 tomatoes/
 ```
 Hmm... Why does pollen get deployed to production every spring even though it's in .gitignore?? 🤧
-
-<br>
-
-# My Portfolio
-### I'd be happy if you checked it out!
-### 👇👇👇
-https://www.shogomorisawa.me/
-### 👆👆👆
